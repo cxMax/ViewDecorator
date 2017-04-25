@@ -16,7 +16,7 @@ decorate a normal item(eg : ItemView , ViewHolder) to expand an extra functional
 ```
 
 ## License
-   Copyright (C) 2017 cxMax
+   Copyright (C) 2017 cxMax  
    Copyright (C) 2017 ViewDecorator
 
    Licensed under the Apache License, Version 2.0 (the "License");
